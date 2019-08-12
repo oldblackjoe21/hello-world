@@ -1,1 +1,2 @@
-Hello!
+Hello! Changes are fun!
+Hello again!
